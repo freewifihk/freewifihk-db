@@ -18,5 +18,15 @@
     "db"
   ],
   "author": "onarray",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "coffee-script": "~1.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/freewifihk/freewifihk-db.git"
+  },
+  "bugs": {
+    "url": "https://github.com/freewifihk/freewifihk-db/issues"
+  }
 }
