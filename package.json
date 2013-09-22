@@ -17,7 +17,7 @@
     "freewifihk",
     "db"
   ],
-  "author": "onarray",
+  "author": "onarray <http://www.onarray.com>",
   "license": "MIT",
   "devDependencies": {
     "coffee-script": "~1.6.3"
