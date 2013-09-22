@@ -1,0 +1,22 @@
+{
+  "name": "freewifihk-db",
+  "version": "0.1.0",
+  "description": "Flat-file database of free Wi-Fi hotspots in Hong Kong",
+  "main": "index.coffee",
+  "dependencies": {
+    "js-yaml": "~2.1.0",
+    "slugify": "~0.1.0",
+    "mkdirp": "~0.3.5",
+    "posix": "~1.0.2",
+    "coffee-script": "~1.6.3"
+  },
+  "scripts": {
+    "build": "./node_modules/.bin/coffee scripts/build.coffee"
+  },
+  "keywords": [
+    "freewifihk",
+    "db"
+  ],
+  "author": "onarray",
+  "license": "MIT"
+}
